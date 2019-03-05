@@ -1,0 +1,16 @@
+body {
+    display: grid;
+}
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+#submit-btns {
+    padding: 1em;
+}
