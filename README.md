@@ -1,0 +1,1 @@
+Taking a crack at 'ripping off' some HTML... 8)
