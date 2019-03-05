@@ -14,3 +14,15 @@ body {
 #submit-btns {
     padding: 1em;
 }
+
+.smallImg {
+  width: 25%;
+  height: 150px;
+}
+
+img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
